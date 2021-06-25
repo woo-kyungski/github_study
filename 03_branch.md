@@ -41,9 +41,10 @@ $ git checjout -b 브랜치명
 
 ```bash
 (master) $ git merge 브랜치명	
+# 커밋 페이지: i(insert) - 수정 - esc - : - wq
 ```
 
-반드시 master 브랜치에 브랜피를 병함
+반드시 master 브랜치에 브랜피를 병합
 
 - 브랜치 삭제
 
