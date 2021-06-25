@@ -43,3 +43,24 @@ $ git remote rm origin
 $ git push -u origin master
 ```
 
+
+
+### clone
+
+- 원격 저장소 내용 전체 복제
+
+```bash
+$ git clone {원격저장소 url}
+```
+
+- 주의사항: 이미 init되어 있음
+
+
+
+### pull
+
+```bash
+git pull origin master
+```
+
+- 원격 저장소의 변경사항을 받아 옴(업데이트)
